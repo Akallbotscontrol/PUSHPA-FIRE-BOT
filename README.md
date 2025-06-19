@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://envs.sh/8uq.jpg" alt="LORD-BOBBY-Bot Logo">
+  <img src="https://envs.sh/8uq.jpg" alt="PU-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  PUSHPA FIRE BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+PUSHPA+FIRE+Filter+Bot!)
