@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://uploadnow.io/files/V5qL9Hf" alt="PUSHPA-FIRE-Bot Logo">
+  <img src="https://freeimage.host/i/Fo0Khn1" alt="PUSHPA-FIRE-Bot Logo">
 </p>
 <h1 align="center">
   PUSHPA FIRE BOT
