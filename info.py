@@ -1,6 +1,3 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
 
 
 import re
@@ -191,10 +188,4 @@ else:
     OTHER_DB_URI = O_DB_URI       # This Db Is For Other Data Store
     FILE_DB_URI = F_DB_URI        # This Db Is For File Data Store
     SEC_FILE_DB_URI = S_DB_URI    # This Db is for File Data Store When First Db Is Going To Be Full.
-
-
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
 
