@@ -247,9 +247,16 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/movie_mines_update">{file_name}</a></b>
+    CAPTION = """<b>🎬 𝙏𝙞𝙩𝙡𝙚 :</b> <a href="https://t.me/movie_mines_update"><b>{file_name}</b></a>
 
-<b>⚙️ Sɪᴢᴇ : {file_size}</b>"""
+<b>📦 𝙁𝙞𝙡𝙚 𝙎𝙞𝙯𝙚 :</b> {file_size}
+
+<b>🚀 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 :</b>
+<a href="https://t.me/AK_BOTZ_UPDATE">⚡ 𝘼𝙆 𝘽𝙊𝙏𝙕 𝙐𝙋𝘿𝘼𝙏𝙀 ⚡</a>
+
+<b>📣 𝙅𝙤𝙞𝙣 𝙊𝙪𝙧 𝙈𝙊𝙑𝙄𝙀 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 :</b>
+<a href="https://t.me/movie_mines_update">🎬 𝙈𝙊𝙑𝙄𝙀 𝙈𝙄𝙉𝙀𝙎 𝙐𝙋𝘿𝘼𝙏𝙀</a>
+"""
     
 
     IMDB_TEMPLATE_TXT = """
@@ -756,4 +763,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
